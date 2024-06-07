@@ -15,14 +15,15 @@ Demonstrate the ability to implement responsive design principles.
 This website homepage includes the use of the following Bootstrap elements:
 
 Buttons
-Navbar within a header section
-Hero section
-Features section with custom cards as potential links
-Jumbotron
-Footer with simple business name and copyright
+- navbar within a header section
+- hero section
+- features section with custom cards as potential links
+- jumbotron
+- footer with simple business name and copyright
+
 Other skills used:
 
-Inspect element to source original images within the current functioning Loafers website
-File and name reorganization
-Use of stock images and icons for aesthetic cohesion
-Accessibility update by using contrasting colors as well as adding alt descriptors for images
+- inspect element to source original images within the current functioning Loafers website
+- file and name reorganization
+- use of stock images and icons for aesthetic cohesion
+- accessibility update by using contrasting colors as well as adding alt descriptors for images
